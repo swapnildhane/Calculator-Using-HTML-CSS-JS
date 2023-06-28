@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@200&family=Roboto:wght@100&display=swap');
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+title {
+  font-family: 'Agdasima', sans-serif;
+}
+
+.button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #53553d;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 6px #999;
+}
+
+.item-center {
+  align-items: center;
+}
+
+.row {
+  margin: 8px;
+}
+
+.row input {
+  width: 239px;
+  border: 2px solid #223034;
+  border-radius: 4px;
+  padding: 10px;
+  font-size: 29px;
+}
